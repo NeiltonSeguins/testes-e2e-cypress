@@ -76,3 +76,20 @@
     padding: 8px 0;
   }
 }
+
+@media (min-width: 768px) and (max-width: 1200px) {
+  .formulario {
+    height: 50%;
+  }
+
+  .botao {
+    font-size: 0.7rem;
+    width: 90%;
+    padding: 8px 0;
+  }
+
+  .campo__valor {
+    width: 90%;
+    margin-bottom: 1rem;
+  }
+}
